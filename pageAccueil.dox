@@ -1,0 +1,41 @@
+/*! \mainpage %Saisir, afficher et analyser des rectangles
+
+  \section a-propos A propos
+ 
+  Ce projet est composé d'un programme et de plusieurs sous-programmes permettant de saisir, afficher
+  et analyser des rectangles représentés par leur longueur et leur hauteur.
+
+Les éléments de code constituant ce projet servent de base pour illustrer comment générer une documentation
+structurée à l'aide de l'outil <a href="https://www.doxygen.nl/index.html">Doxygen</a>.
+ 
+
+  \section organisation-depot Organisation du projet
+
+Ce projet est organisé de la façon suivante :
+
+ - le dossier \b .vscode contient des paramètres utilisés par Visual Studio Code pour compiler 
+   et déboguer du code C++.  
+
+- le dossier \b docs contient la documentation relative aux programmes et sous-programmes élaborés. 
+
+ - le dossier \b doxygen-config contient les paramètres retenus pour générer la documentation 
+ via Doxygen. 
+
+ - le dossier \b versions contient deux versions archivées du fichier main.cpp: Une version
+ documentée avec des commentaires traditionnels et une version documentée avec des commentaires
+ Doxygen structurés.
+
+ - le fichier \b .gitignore liste les fichiers qui doivent être ignorés si le projet est "versionné"
+ avec git.
+
+ - le fichier \b main.cpp contient le code du programme et des sous-programmes.
+
+ - le fichier \b pageAccueil.dox contient une présentation générale du projet ainsi qu'une description
+ des différents dossiers et fichiers constituant le projet.
+
+ - le fichier \b projet-rectangles.code-workspace contient le paramétrage du workspace Visual Studio Code
+ utilisé pour développer le projet.
+ 
+
+
+ */
